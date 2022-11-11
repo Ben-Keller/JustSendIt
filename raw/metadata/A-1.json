@@ -1,0 +1,34 @@
+{
+  "channel": 3,
+  "unixTime": 1666207575,
+  "lat": 51.507351,
+  "lon": -0.127758,
+  "tagID": "A",
+  "mps": 5.9,
+  "beamMACs": [
+    "00:11:22:33:FF:EE",
+    "15:AF:BE:23:BC:FA"
+  ],
+  "beamBattery": [
+    3430,
+    3230
+  ],
+  "beamRssi": [
+    -67,
+    -77
+  ],
+  "startDelay": 12300,
+  "xMinPos": 560,
+  "xMaxPos": 1023,
+  "yMinPos": 431,
+  "yMaxPos": 900,
+  "zMinPos": 25,
+  "zMaxPos": 600,
+  "xSpeedScale": 1,
+  "ySpeedScale": 0.75,
+  "zSpeedScale": 0.5,
+  "IPaddress": "192.168.1.15",
+  "MACaddress": "00:B0:D0:63:C2:26",
+  "cameraBattery": 12450,
+  "WiFiRssi": -56
+}
